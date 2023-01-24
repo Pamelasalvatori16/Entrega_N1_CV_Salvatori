@@ -20,7 +20,9 @@ html {
 
 #profileph {
     padding: 3rem;
- }
+    width:100%;
+    height: auto;
+}
 
 #mih1 {
     font-family: 'Roboto', sans-serif;
@@ -43,7 +45,7 @@ html {
     font-size: 2rem;
     font-weight: bolder;
     color: #85929E;
-    padding: 1% 15% 3%;
+    padding: 1% 20% 3%;
     border-bottom: 1px solid #CCD1D1; 
 }
 
@@ -61,7 +63,7 @@ html {
 }
 
 .nav-item {
-    padding: 1% 20% 5%;
+    padding: 0% 7% 5%;
 }
 
 .txt_aside {
